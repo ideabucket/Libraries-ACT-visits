@@ -1,13 +1,10 @@
 Libraries ACT Opening Hours data
 ================================
 
-Data deficiencies
------------------
+A dataset built from [CED FOI request 26-184](https://www.cityservices.act.gov.au/about-us/freedom_of_information/disclosure-log/ced-2026/foi-disclosure-log-26-184) with some augmentations. See [SOURCES.md](SOURCES.md) for sourcing information and [preprocess.R](preprocess.R) for how the source CSV is transformed.
 
-### No information about unplanned closures
+Better documentation to follow.
 
-According to [the IWG report][iwg] there were 136 unplanned branch closures in the 2023–4 and 2024–5 financial years. There is no public data I know of about when these closures occurred. I've asked City Services about it.
+Built to power [this visualisation of Libraries ACT visitor traffic](https://public.tableau.com/app/profile/keith.bolland/viz/libraries-act-data/Visitsperbranch).
 
-### No information about preprocessing steps
-
-The screenshots of data 
+To the extent that I have the legal ability to release it, everything in this repository is public domain.
